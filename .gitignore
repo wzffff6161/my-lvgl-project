@@ -1,0 +1,14 @@
+build/
+sdkconfig.old
+.vs/
+.vscode/
+.claude/
+.devcontainer/
+
+# 编译中间文件（保险起见）
+*.o
+*.obj
+*.bin
+*.hex
+*.elf
+*.map
